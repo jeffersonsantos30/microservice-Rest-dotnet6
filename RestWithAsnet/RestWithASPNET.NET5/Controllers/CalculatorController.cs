@@ -11,7 +11,7 @@ namespace RestWithASPNET.NET5.Controllers
     [Route("[controller]")]
     public class CalculatorController : ControllerBase
     {
-        
+
 
         private readonly ILogger<CalculatorController> _logger;
 
@@ -23,7 +23,7 @@ namespace RestWithASPNET.NET5.Controllers
         [HttpGet("sum/{fristNumber}/{secondNumber}")]
         public IActionResult Get(string fristNumber,string secondNumber)
         {
-            if (IsNumeric (fristNumber) && IsNumeric(secondNumber)) ;
+            if (IsNumeric(fristNumber) && IsNumeric(secondNumber)) ;
             {
                 var sum = ConvertToDecimal(fristNumber) + ConvertToDecimal(secondNumber);
                 return Ok(sum.ToString());
@@ -31,14 +31,24 @@ namespace RestWithASPNET.NET5.Controllers
             return BadRequest("Invalid Input");
         }
 
-        private int ConvertToDecimal(string secondNumber)
+        private bool IsNumeric(string strNumber)
         {
-            throw new NotImplementedException();
+            bool IsNumber = double.TryParse
+                (strNumber, System.Globalization.NumberStyles.Any,
+                System.Globalization.NumberFormatInfo.InvariantInfo,
+                out _);
+
+            return IsNumber;
+        }
+        private decimal ConvertToDecimal(string strNumber)
+        {
+            decimal decimalValue;
+            if (decimal.TryParse(strNumber, out decimalValue))
+            {
+                return decimalValue;
+            }
+            return 0;
         }
 
-        private bool IsNumeric(string fristNumber)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
