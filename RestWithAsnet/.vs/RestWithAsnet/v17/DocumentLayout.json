@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|c:\\microservice-rest-dotnet6\\restwithasnet\\restwithaspnet.net5\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|solutionrelative:restwithaspnet.net5\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|c:\\microservice-rest-dotnet6\\restwithasnet\\restwithaspnet.net5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|solutionrelative:restwithaspnet.net5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|c:\\microservice-rest-dotnet6\\restwithasnet\\restwithaspnet.net5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|solutionrelative:restwithaspnet.net5\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|c:\\microservice-rest-dotnet6\\restwithasnet\\restwithaspnet.net5\\restwithaspnet.net5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54E3EBA0-AF17-4542-87E8-3904A3F94115}|RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj|solutionrelative:restwithaspnet.net5\\restwithaspnet.net5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980B8A47-DFC9-4864-8227-73013A1EB2DC}|RestWithAsnet\\RestWithAsnet.csproj|c:\\microservice-rest-dotnet6\\restwithasnet\\restwithasnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980B8A47-DFC9-4864-8227-73013A1EB2DC}|RestWithAsnet\\RestWithAsnet.csproj|solutionrelative:restwithasnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET.NET5\\Program.cs",
+              "ToolTip": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET.NET5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:08:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET.NET5\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNET.NET5\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T00:07:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Startup.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET.NET5\\Startup.cs",
+              "ToolTip": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\Startup.cs",
+              "RelativeToolTip": "RestWithASPNET.NET5\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:20:41.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestWithASPNET.NET5.csproj",
+              "DocumentMoniker": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj",
+              "ToolTip": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj",
+              "RelativeToolTip": "RestWithASPNET.NET5\\RestWithASPNET.NET5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T18:15:04.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithAsnet\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithAsnet\\Program.cs",
+              "ToolTip": "C:\\microservice-Rest-dotnet6\\RestWithAsnet\\RestWithAsnet\\Program.cs",
+              "RelativeToolTip": "RestWithAsnet\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:29:05.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
