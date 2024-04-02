@@ -1,3 +1,3 @@
 # microservice-Rest-dotnet6 EM CONSTRUÇÃO
-Calculadora seguindo os conseitos REST
+Calculadora seguindo os conceitos REST
 .Net5
